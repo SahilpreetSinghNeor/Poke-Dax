@@ -1,0 +1,49 @@
+body{
+    background-color: aquamarine;
+}
+ h1{
+    /* display:inline-block; */
+    
+    margin:0px 450px;
+    color:green;
+    font-family:fantasy;
+}
+
+
+input{
+    width:50%;
+}
+
+#buttons{
+    margin-top: 20px;
+}
+.btn {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    margin-top: 10px;
+  }
+  
+  .btn:hover {
+    background-color: #083d12; /* Green */
+    color: white;
+    cursor: pointer;
+  }
+  p{
+    font-family: fantasy;
+    font-size: large;
+  }
+  img{
+    width: 100px;
+    height:100px;
+  }
+  label{
+    font-family: fantasy;
+    font-size: large;
+  }
